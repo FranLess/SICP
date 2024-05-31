@@ -1,0 +1,6 @@
+[package]
+name = "structure_and_interpretation_of_computer_programs"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
